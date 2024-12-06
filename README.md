@@ -28,8 +28,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lephong88&show_icons=true&locale=en" alt="lephong88" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lephong88&" alt="lephong88" /></p>
+
+<div style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/lephong88/lephong88/output/github-snake-dark.svg" alt="snake gif">
+</div>
+
 <h3 align="left">In general, it's comfortable:</h3>
 <p><img align="center" src="https://upload-os-bbs.hoyolab.com/upload/2024/04/13/220283393/de02659fb3e8af0b3ea8813d92f05228_1194556745372479772.gif" alt="roll-flrefly" /></p>
-<div align="center">
-  ![snake gif](https://github.com/Dariel/Dariel/blob/output/github-snake-dark.svg)
-</div>
+
