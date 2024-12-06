@@ -30,3 +30,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lephong88&" alt="lephong88" /></p>
 <h3 align="left">In general, it's comfortable:</h3>
 <p><img align="center" src="https://upload-os-bbs.hoyolab.com/upload/2024/04/13/220283393/de02659fb3e8af0b3ea8813d92f05228_1194556745372479772.gif" alt="roll-flrefly" /></p>
+<div align="center">
+  ![snake gif](https://github.com/lephong88/lephong88/blob/output/github-snake-dark.svg)
+</div>
