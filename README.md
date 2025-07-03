@@ -33,6 +33,3 @@
   <img src="https://raw.githubusercontent.com/lephong88/lephong88/output/github-snake-dark.svg" alt="snake gif">
 </div>
 
-<h3 align="left">In general, it's comfortable:</h3>
-<p><img align="center" src="https://upload-os-bbs.hoyolab.com/upload/2024/04/13/220283393/de02659fb3e8af0b3ea8813d92f05228_1194556745372479772.gif" alt="roll-flrefly" /></p>
-
