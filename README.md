@@ -27,7 +27,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lephong88&show_icons=true&locale=en" alt="lephong88" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lephong88&" alt="lephong88" /></p>
 
 <div style="text-align: center;">
   <img src="https://raw.githubusercontent.com/lephong88/lephong88/output/github-snake-dark.svg" alt="snake gif">
